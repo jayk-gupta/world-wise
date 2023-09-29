@@ -1,8 +1,18 @@
-# React + Vite
+# World Wise
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+World Wise is a personal geography tracking application designed to create a visual record of your global travel adventures. With a user-friendly interface, it empowers users to mark and celebrate the cities they have visited on an interactive map.
 
-Currently, two official plugins are available:
+## Key Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Interactive Map:** Crafted using the Leaflet API, providing an immersive experience.
+- **Geolocation API Integration:** Ensures precise city positioning for accurate tracking.
+- **Visit Recording:** Effortlessly mark cities and record the date of each memorable visit.
+- **Personal Notes:** Add unique anecdotes and reflections about your travel experiences.
+
+## Technologies Used
+
+- **Leaflet API:** For building interactive maps.
+- **Geolocation API:** Ensures accurate city positioning.
+- **JavaScript and React:** Power the frontend application.
+
+---
